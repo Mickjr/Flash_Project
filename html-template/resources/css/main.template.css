@@ -1,0 +1,90 @@
+body
+{
+	background: url(../images/brickwall.png) repeat;
+	background-color: #CC9966;
+	font: 62.5%/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+#wrapper
+{
+	width:${width}px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px #000;
+}
+
+	
+h1
+{
+	font-size: 2em;
+	color: #cccccc;
+	text-align: center;
+}
+
+#header
+{
+	padding-bottom: 0em;
+	border-bottom: #4f4f4f solid 2px;
+	overflow: hidden;
+	box-shadow: 10px 10px 10px #000;
+	background-color: #372412;
+}
+#top_left
+{
+	float: left;
+	margin-top: 67px;
+	width: 275px;
+}
+#top_right
+{
+	text-align: left;
+	padding-right: 1em;
+	padding-left: 1em;
+	margin-top: 10px;
+}
+#vid
+{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: #372412;
+}
+#alt_content
+{
+	font-size: 1.5em;
+	margin: 0 auto;
+	width: 340px;
+	padding: 100px;
+	
+}
+#footer
+{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+	border-top: #4f4f4f solid 2px;
+	text-align: right;
+	color: #ffffff;
+	background-color: #372412;
+}
+#footer p
+{
+	padding-top: 0px;
+	margin-top: 5px;
+	background-color: #cccccc;
+}
+#stats
+{
+	padding-top: 100px;
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+}
+span.count {
+	font-size: 5em;
+
+}
+a
+{
+	
+	color: #fffeff;
+}
